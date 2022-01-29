@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "friends",
+  "info": {
+    "singularName": "friend",
+    "pluralName": "friends",
+    "displayName": "friends"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name": {
+      "type": "string",
+      "required": true
+    }
+  }
+}
